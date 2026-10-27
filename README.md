@@ -1,0 +1,1 @@
+powershell -c "irm YOUR_RAW_FILE_URL | iex"
